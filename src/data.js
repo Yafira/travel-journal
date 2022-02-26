@@ -3,7 +3,7 @@ export default [
 		id: 1,
 		location: 'London, England',
 		title: 'British Museum',
-		date: 'June 2015',
+		date: 'June 2005',
 		description:
 			'The British Museum is a public museum dedicated to human history, art and culture located in the Bloomsbury area of London. Its permanent collection of eight million works is among the largest and most comprehensive in existence. It documents the story of human culture from its beginnings to the present. Dont miss the Rosetta Stone, the Parthenon sculptures and the mummies in the Ancient Egypt collection.',
 		coverImg: 'london.jpg',
@@ -12,7 +12,7 @@ export default [
 		id: 2,
 		location: 'Cancun, Mexico',
 		title: 'Cancun Beaches',
-		date: 'April 2019',
+		date: 'April 2010',
 		description:
 			'Cancun is recognized throughout the world for its spectacular white sand beaches and its fascinating sea in turquoise blue tones. With unique natural places, Mayan culture, water activities and adventure.',
 		coverImg: 'mexico.jpg',

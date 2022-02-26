@@ -20,12 +20,17 @@
 	margin-bottom: 9px;
 }
 
-.card--details {
+.post--desc {
 	display: flex;
 	align-items: center;
+	color: gray;
 }
 
 .post--title {
-	font-size: 15px;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.post--date {
 	font-weight: bold;
 }
