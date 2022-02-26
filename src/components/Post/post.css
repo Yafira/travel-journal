@@ -1,0 +1,31 @@
+.post-list {
+	display: flex;
+	flex-wrap: nowrap;
+	gap: 20px;
+	overflow-x: auto;
+}
+
+.post {
+	width: 180px;
+	font-size: 12px;
+	flex: 0 0 auto;
+	display: flex;
+	flex-direction: column;
+	position: relative;
+}
+
+.post--image {
+	width: 100%;
+	border-radius: 9px;
+	margin-bottom: 9px;
+}
+
+.card--details {
+	display: flex;
+	align-items: center;
+}
+
+.post--title {
+	font-size: 15px;
+	font-weight: bold;
+}
