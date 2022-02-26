@@ -2,11 +2,12 @@
 	display: flex;
 	flex-wrap: nowrap;
 	gap: 20px;
+	flex-direction: row;
 	overflow-x: auto;
 }
 
 .post {
-	width: 180px;
+	width: 300px;
 	font-size: 12px;
 	flex: 0 0 auto;
 	display: flex;
@@ -29,8 +30,14 @@
 .post--title {
 	font-size: 20px;
 	font-weight: bold;
+	margin: 10px 0;
 }
 
 .post--date {
+	margin: 7px 0;
 	font-weight: bold;
+}
+
+.post--flag {
+	margin: 0 8px;
 }

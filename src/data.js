@@ -2,6 +2,7 @@ export default [
 	{
 		id: 1,
 		location: 'London, England',
+		flag: 'icon-uk.png',
 		title: 'British Museum',
 		date: 'June 2005',
 		description:
@@ -11,6 +12,7 @@ export default [
 	{
 		id: 2,
 		location: 'Cancun, Mexico',
+		flag: 'icon-mexico.png',
 		title: 'Cancun Beaches',
 		date: 'April 2010',
 		description:
@@ -20,6 +22,7 @@ export default [
 	{
 		id: 3,
 		location: 'Fuji-Hakone-Izu National Park, Japan',
+		flag: 'icon-japan.png',
 		title: 'Mount Fuji',
 		date: 'November 2016',
 		description:
@@ -29,6 +32,7 @@ export default [
 	{
 		id: 4,
 		location: 'Reykjavík, Iceland',
+		flag: 'icon-iceland.png',
 		title: 'Hallgrímskirkja',
 		date: 'January 2020',
 		description:
