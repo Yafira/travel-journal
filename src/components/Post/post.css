@@ -4,6 +4,7 @@
 	gap: 30px;
 	flex-direction: column;
 	overflow-x: auto;
+	max-width: 800px;
 }
 
 .post {
@@ -14,11 +15,14 @@
 	flex-direction: row;
 	position: relative;
 	gap: 30px;
+	padding-top: 25px;
 }
 
 .post--image {
 	width: 300px;
-	border-radius: 20px;
+	border-radius: 5px;
+	height: fit-content;
+	aspect-ratio: 16 / 9;
 }
 
 .country--details {
