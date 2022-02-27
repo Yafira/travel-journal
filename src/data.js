@@ -7,7 +7,7 @@ export default [
 		title: 'British Museum',
 		date: 'June 2005',
 		description:
-			'The British Museum is a public museum dedicated to human history, art and culture located in the Bloomsbury area of London. Its permanent collection of eight million works is among the largest and most comprehensive in existence. It documents the story of human culture from its beginnings to the present. Dont miss the Rosetta Stone, the Parthenon sculptures and the mummies in the Ancient Egypt collection.',
+			"The British Museum is a public museum dedicated to human history, art and culture located in the Bloomsbury area of London. Its permanent collection of eight million works is among the largest and most comprehensive in existence. It documents the story of human culture from its beginnings to the present. Don't miss the Rosetta Stone, the Parthenon sculptures and the mummies in the Ancient Egypt collection.",
 		coverImg: 'london.jpg',
 	},
 	{
@@ -29,7 +29,7 @@ export default [
 		title: 'Mount Fuji',
 		date: 'November 2016',
 		description:
-			'Japan’s Mt. Fuji is an active volcano about 100 kilometers southwest of Tokyo. Commonly called “Fuji-san,” it’s the country’s tallest peak, at 3,776 meters. A pilgrimage site for centuries, it’s considered one of Japan’s 3 sacred mountains, and summit hikes remain a popular activity. Its iconic profile is the subject of numerous works of art, notably Edo Period prints by Hokusai and Hiroshige.',
+			"Mount Fuji is a symbol of Japan. The mountain contributes to Japan's physical, cultural, and spiritual geography. Japan’s Mt. Fuji is an active volcano about 100 kilometers southwest of Tokyo. Commonly called “Fuji-san,” it’s the country’s tallest peak, at 3,776 meters. A pilgrimage site for centuries, it’s considered one of Japan’s 3 sacred mountains, and summit hikes remain a popular activity. Its iconic profile is the subject of numerous works of art, notably Edo Period prints by Hokusai and Hiroshige.",
 		coverImg: 'japan.jpg',
 	},
 	{
