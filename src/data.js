@@ -3,6 +3,7 @@ export default [
 		id: 1,
 		location: 'London, England',
 		flag: 'icon-uk.png',
+		direction: 'https://goo.gl/maps/XQHicbvP3GUiCm8h9',
 		title: 'British Museum',
 		date: 'June 2005',
 		description:
@@ -13,6 +14,7 @@ export default [
 		id: 2,
 		location: 'Cancun, Mexico',
 		flag: 'icon-mexico.png',
+		direction: 'https://goo.gl/maps/SSxkP94F95n1Book7',
 		title: 'Cancun Beaches',
 		date: 'April 2010',
 		description:
@@ -23,6 +25,7 @@ export default [
 		id: 3,
 		location: 'Fuji-Hakone-Izu National Park, Japan',
 		flag: 'icon-japan.png',
+		direction: 'https://goo.gl/maps/H6cSgjpoWWio4PF96',
 		title: 'Mount Fuji',
 		date: 'November 2016',
 		description:
@@ -33,6 +36,7 @@ export default [
 		id: 4,
 		location: 'Reykjavík, Iceland',
 		flag: 'icon-iceland.png',
+		direction: 'https://goo.gl/maps/DGnBTWDzeHHaWuzY9',
 		title: 'Hallgrímskirkja',
 		date: 'January 2020',
 		description:
