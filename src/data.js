@@ -4,7 +4,7 @@ export default [
 		location: 'London, England',
 		flag: 'icon-uk.png',
 		direction: 'https://goo.gl/maps/XQHicbvP3GUiCm8h9',
-		title: 'British Museum',
+		title: 'The British Museum',
 		date: 'June 2005',
 		description:
 			"The British Museum is a public museum dedicated to human history, art and culture located in the Bloomsbury area of London. Its permanent collection of eight million works is among the largest and most comprehensive in existence. It documents the story of human culture from its beginnings to the present. Don't miss the Rosetta Stone, the Parthenon sculptures and the mummies in the Ancient Egypt collection.",
