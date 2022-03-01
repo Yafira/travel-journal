@@ -6,7 +6,7 @@ export default function Card(props) {
 			<img src={`../assets/${props.coverImg}`} className='post--image' />
 			<div className='post--details'>
 				<div className='country--details'>
-					<img src='../assets/pin.png'></img>
+					<img src='../assets/pin.png' />
 					<span>{props.location}</span>
 					<img src={`../assets/${props.flag}`} className='post--flag' />
 					<a href={props.direction} className='post--map'>
