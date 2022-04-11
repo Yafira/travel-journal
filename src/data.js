@@ -1,4 +1,4 @@
-export default [
+const exportedData = [
 	{
 		id: 1,
 		location: 'London, England',
@@ -43,4 +43,6 @@ export default [
 			'Hallgrímskirkja is a Lutheran parish church in Reykjavík, Iceland. At 74.5 metres tall, it is the largest church in Iceland and among the tallest structures in the country.',
 		coverImg: 'iceland.jpg',
 	},
-];
+]
+
+export default exportedData
